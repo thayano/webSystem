@@ -6,16 +6,16 @@ export const navLinks = [
     title: "Home",
   },
   {
-    id: "sobre",
+    id: "features",
     title: "Sobre Nós",
   },
   {
-    id: "produtos",
+    id: "product",
     title: "Produtos",
   },
   {
-    id: "contatos",
-    title: "Contatos",
+    id: "clients",
+    title: "Clientes",
   },
 ];
 
@@ -23,23 +23,23 @@ export const features = [
   {
     id: "feature-1",
     icon: star,
-    title: "Rewards",
+    title: "Premios",
     content:
-      "The best credit cards offer some tantalizing combinations of promotions and prizes",
+      "Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit...",
   },
   {
     id: "feature-2",
     icon: shield,
-    title: "100% Secured",
+    title: "Segurança",
     content:
-      "We take proactive steps make sure your information and transactions are secure.",
+      "Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit...",
   },
   {
     id: "feature-3",
     icon: send,
-    title: "Balance Transfer",
+    title: "Agilidade",
     content:
-      "A balance transfer credit card can save you a lot of money in interest charges.",
+      "Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit...",
   },
 ];
 
@@ -47,44 +47,45 @@ export const feedback = [
   {
     id: "feedback-1",
     content:
-      "Money is only a tool. It will take you wherever you wish, but it will not replace you as the driver.",
-    name: "Herman Jensen",
+      "Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit....",
+    name: "Bill Gates",
     title: "Founder & Leader",
     img: people01,
   },
   {
     id: "feedback-2",
     content:
-      "Money makes your life easier. If you're lucky to have it, you're lucky.",
-    name: "Steve Mark",
+      "Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit....",
+    name: "Allan Musk",
     title: "Founder & Leader",
     img: people02,
   },
   {
     id: "feedback-3",
     content:
-      "It is usually people in the money business, finance, and international trade that are really rich.",
-    name: "Kenn Gallagher",
+      "Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit....",
+    name: "Kall Mark",
     title: "Founder & Leader",
     img: people03,
   },
 ];
 
+
 export const stats = [
   {
     id: "stats-1",
-    title: "User Active",
+    title: "Usuarios ativos",
     value: "3800+",
   },
   {
     id: "stats-2",
-    title: "Trusted by Company",
-    value: "230+",
+    title: "Anos no Mercado",
+    value: "15+",
   },
   {
     id: "stats-3",
-    title: "Transaction",
-    value: "$230M+",
+    title: "Paises",
+    value: "200+",
   },
 ];
 
